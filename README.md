@@ -63,7 +63,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/miami78/nextjs-starter-pack?style=for-the-badge"/></td>
     </tr>
         <tr>
-      <td><a href="https://github.com/miami78/nextjs-mui-boilerplate"><b>nextjs-starter-pack</b></a>
+      <td><a href="https://github.com/miami78/nextjs-mui-boilerplate"><b>nextjs-mui-boilerplate</b></a>
       </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/miami78/nextjs-mui-boilerplate?style=for-the-badge"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/miami78/nextjs-mui-boilerplate?label=FORKS&style=for-the-badge"/></td>

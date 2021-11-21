@@ -3,7 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Larry, FrontEnd Engineer from <img src="https://flagcdn.com/32x24/ke.png" width="20"/> <b>Mombasa, Kenya</b>
 
-- 🌱  I’m currently learning Erlang(Elixir).
+- 🌱  I’m currently learning Erlang(Elixir) && Smart Contracts(Solidy).
 - 💬  Ask me about anything related to Javascript, Nextjs, React, GraphQL
 
 
